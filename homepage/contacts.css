@@ -1,0 +1,18 @@
+section
+{
+    background: url("img/Victorian-ocean-view-room-hotel-del-coronado.jpg") no-repeat -100px -700px;
+    min-height: 640px;
+}
+
+.contactss
+{
+    position: relative;
+    top:20px;
+    background: rgba(0, 83, 156, 0.788);
+    color: rgb(221, 221, 221);
+    padding: 10px 0px;
+    border: 2px rgb(255, 137, 137) solid;
+    margin: 50px 30px;
+    text-align: center;
+    border-radius: 30px;
+}

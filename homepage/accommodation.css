@@ -1,0 +1,93 @@
+section
+{
+    background: url("img/standard-sea-view-4.jpg") no-repeat 0 -450px;
+    min-height: 600;
+}
+
+section .container
+{
+position: relative;
+    top:50px;
+    text-align:center;
+}
+
+table
+{
+    border: 2px rgb(255, 137, 137) solid;
+    background: rgba(0, 83, 156, 0.788);
+    color: rgb(221, 221, 221);
+    border-radius: 20px;
+    text-align: center;
+    padding: 10px 10px;
+    width:100%;
+}
+
+.boxes
+{
+    background: url("img/resize.jpg") no-repeat;
+    text-align: center;
+    min-height: 800px;
+    
+    
+}
+
+.boxes .container
+{
+    background: rgba(0, 83, 156, 0.726);
+    color:rgb(221, 221, 221);
+    min-height: 720px;
+    min-width: 1300px;
+    border-radius: 20px;
+    border:2px rgb(255, 137, 137) solid;
+    position: relative;
+    top: 50px;
+}
+
+.box img,.box1 img
+{
+    width: 500px;
+    height: 250px;
+    
+}
+
+.box
+{   
+    display: inline;
+    position: relative;
+    top:50px;
+    left: 70px;
+    padding:20px;
+    float:left;
+    width:500;
+    text-align: center;
+}
+
+.box1{
+    display: inline;
+    position: relative;
+    top:50px;
+    padding:20px;
+    right: 70px;
+    float:right;
+    width:500;
+    margin:0 0px 0 30;
+}
+
+table li
+{
+    text-decoration: none;
+    font-weight: normal;
+}
+
+/*@media(max-width: 768px)
+{
+
+    section,.box,.boxes,.boxes .container
+    {
+        float: none;
+        top:0;
+        left:0;
+        text-align: center;
+        display: inline;
+    }
+}*/
